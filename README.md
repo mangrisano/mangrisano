@@ -7,7 +7,7 @@ I'm a curious guy about everything concern IT, Software Development, Software En
 
 * 🌍  I'm based in Napoli, Italy. 
 * ✉️  You can contact me at [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com) 
-* 🚀  I'm currently working on Personal projects, in particular i'm working on University Projects for my CS Degree.
+* 🚀  I'm currently working on Personal projects, in particular i'm working on University Projects for my CS degree.
 * 🧠  I'm learning Java, Python, Algorithms and Data Structures, Software Engeneering.
 
 ### Skills
