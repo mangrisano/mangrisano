@@ -52,5 +52,3 @@ I'm a curious guy about everything concern IT, Software Development, Software En
 <div width="100%" align="center">
 <a href="https://github.com/mangrisano/adt-lib" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mangrisano&repo=adt-lib&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
 <a href="https://github.com/mangrisano/ftp-mirror" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mangrisano&repo=ftp-mirror&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
