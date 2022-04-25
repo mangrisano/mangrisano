@@ -12,16 +12,24 @@ I'm a curious guy about everything concern IT, Software Development, Software En
 
 ### Skills
 
-<p align="left"> 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> 
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" width="36" height="36" alt="LaTex" /></a> 
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Code-LaTex-informational?style=flat&logo=latex&logoColor=white&color=0891b2)
 
-</p>
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Database-PostgresSQL-informational?style=flat&logo=postgressql&logoColor=white&color=0891b2)
+
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Tools-TMUX-informational?style=flat&logo=tmux&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=notion&logoColor=white&color=0891b2)
+
+
+![](https://img.shields.io/badge/Editor-VIm-informational?style=flat&logo=vim&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0891b2)
 
  ### Socials
  
@@ -44,3 +52,5 @@ I'm a curious guy about everything concern IT, Software Development, Software En
 <div width="100%" align="center">
 <a href="https://github.com/mangrisano/adt-lib" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mangrisano&repo=adt-lib&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a>
 <a href="https://github.com/mangrisano/ftp-mirror" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mangrisano&repo=ftp-mirror&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
