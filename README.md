@@ -12,8 +12,8 @@ I'm a curious guy about everything concern IT, Software Development, Software En
 
 ### Skills
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-GNU-informational?style=flat&logo=gnu&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=0891b2)
