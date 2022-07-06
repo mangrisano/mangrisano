@@ -3,7 +3,7 @@ Hi 👋 My name is Michele Angrisano
 CS Student 
 ----------  
 I'm a CS Student at [Università degli Studi di Napoli "Federico II"](https://informatica.dieti.unina.it/index.php/it/).   
-I'm a curious guy about everything concern IT, Software Development, Software Engeneering and Problem Solving.
+I'm a curious guy about everything concerns IT, Software Development, Software Engeneering and Problem Solving.
 
 * 🌍  I'm based in Napoli, Italy. 
 * ✉️  You can contact me at [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com) 
