@@ -41,8 +41,9 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 ![](https://img.shields.io/badge/Database-PostgresSQL-informational?style=flat&logo=postgressql&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnubash&logoColor=white&color=0891b2)
 
-![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=0891b2)
 
 
 
