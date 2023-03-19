@@ -12,6 +12,7 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 
 ### Skills
 
+![](https://img.shields.io/badge/OS-Centos-informational?style=flat&logo=centos&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-GNU-informational?style=flat&logo=gnu&logoColor=white&color=0891b2)
@@ -33,6 +34,7 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-LaTex-informational?style=flat&logo=latex&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Editor-VIm-informational?style=flat&logo=vim&logoColor=white&color=0891b2)
