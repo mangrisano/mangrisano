@@ -20,6 +20,7 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-Slackware-informational?style=flat&logo=slackware&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=0891b2)
@@ -27,6 +28,7 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 ![](https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=notion&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Tools-TMUX-informational?style=flat&logo=tmux&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0891b2)
