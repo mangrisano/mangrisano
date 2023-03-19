@@ -30,6 +30,7 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-LaTex-informational?style=flat&logo=latex&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0891b2)
 
