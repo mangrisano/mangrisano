@@ -34,13 +34,11 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0891b2)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-LaTex-informational?style=flat&logo=latex&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=0891b2)
 
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Editor-VIm-informational?style=flat&logo=vim&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0891b2)
 
