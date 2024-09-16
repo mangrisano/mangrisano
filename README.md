@@ -23,7 +23,6 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 ![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0891b2)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0891b2)
