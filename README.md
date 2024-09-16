@@ -10,7 +10,7 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 * ✉️  You can contact me at [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com) 
 * 🚀  Currently working on personal projects, in particular I'm working on University Projects for my CS degree. 
 * 💻  Software/IT Engineer at [Bit4id](https://www.bit4id.com) based in Napoli, Italy.
-* 🧠  I'm learning Java, Python, Algorithms and Data Structures, Software Engeneering.
+* 🧠  I'm learning Python, Algorithms and Data Structures, Software Engeneering.
 
 ### Skills
 
