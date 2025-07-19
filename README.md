@@ -2,14 +2,14 @@ Hi 👋 My name is Michele Angrisano
 ==================================  
 CS Student 
 ----------  
-I'm a CS Student at [Università degli Studi di Napoli "Federico II"](https://informatica.dieti.unina.it/index.php/it/) and Software Engineer at [Bit4id](https://www.bit4id.com).  
+I'm a CS Student at [Università degli Studi di Napoli "Federico II"](https://informatica.dieti.unina.it/index.php/it/) and Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it).  
 I'm a curious guy about everything concerns IT, Software Development, Software Engeneering and Problem Solving.
 
 * 📍  Based in Napoli, Italy.
 * 🌍  [Linkedin Profile](https://www.linkedin.com/in/michele-angrisano-2b812a1b8/)
 * ✉️  You can contact me at [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com) 
 * 🚀  Currently working on personal projects, in particular I'm working on University Projects for my CS degree. 
-* 💻  Software/IT Engineer at [Bit4id](https://www.bit4id.com) based in Napoli, Italy.
+* 💻  Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it) based in Napoli, Italy.
 * 🧠  I'm learning Python, Algorithms and Data Structures, Software Engeneering.
 
 ### Skills
