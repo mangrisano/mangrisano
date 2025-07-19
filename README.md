@@ -29,6 +29,7 @@ I'm a curious guy about everything concerns IT, Software Development, Software E
 ![](https://img.shields.io/badge/Database-PostgresSQL-informational?style=flat&logo=postgressql&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=0891b2)
+![](https://img.shields.io/badge/Framework-Fastapi-informational?style=flat&logo=fastapi&logoColor=white&color=0891b2)
 
 
 
