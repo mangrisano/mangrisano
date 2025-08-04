@@ -3,15 +3,13 @@ Hi 👋 My name is Michele Angrisano
 CS Student 
 ----------  
 I'm a Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it).  
-I'm a curious guy about everything concerns IT, Software Development, Software Engeneering and Problem Solving.
+I'm a curious guy about everything concerns IT, Software Development, Algorithm and Data Structures, Software Engeneering and Problem Solving.
 
 * 📍  Based in Napoli, Italy.
 * 🌍  [Linkedin Profile](https://www.linkedin.com/in/michele-angrisano-2b812a1b8/)
 * ✉️  You can contact me at [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com) 
-* 🚀  Currently working on personal projects, in particular I'm working on University Projects for my CS degree. 
 * 💻  Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it) based in Napoli, Italy.
-* 🧠  I'm learning Python, Algorithms and Data Structures, Software Engeneering.
-
+* 🧠  I basically write software using Python, sometimes with C++, Typescript/Javascript.
 ### Skills
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0891b2)
