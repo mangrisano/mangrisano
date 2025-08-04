@@ -17,7 +17,6 @@ I'm a curious guy about everything concerns IT, Software Development, Algorithm 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0891b2)
-![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=0891b2)
 ![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&logoColor=white&color=0891b2)
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0891b2)
