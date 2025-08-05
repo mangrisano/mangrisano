@@ -9,7 +9,7 @@ I'm a curious guy about everything concerns IT, Software Development, Algorithm 
 * 🌍  [Linkedin Profile](https://www.linkedin.com/in/michele-angrisano-2b812a1b8/)
 * ✉️  You can contact me at [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com) 
 * 💻  Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it) based in Napoli, Italy.
-* 🧠  I basically write software using Python, sometimes with C++, Typescript/Javascript.
+* 🧠  I basically write software using Python, sometimes with C++ and Typescript/Javascript.
 ### Skills
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0891b2)
