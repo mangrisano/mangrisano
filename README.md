@@ -1,6 +1,6 @@
 Hi 👋 My name is Michele Angrisano 
 ==================================  
-CS Student 
+Software Engineer 
 ----------  
 I'm a Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it).  
 I'm a curious guy about everything concerns IT, Software Development, Algorithm and Data Structures, Software Engeneering and Problem Solving.
