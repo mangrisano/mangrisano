@@ -20,6 +20,7 @@ structures, and shipping things that hold up in production.
 ### Open source
 
 - 🔍 **[certinspect](https://github.com/mangrisano/certinspect)** — a single-purpose command-line X.509/TLS certificate inspector. Checks expiry, chain of trust, OCSP/CRL revocation, weak crypto and hostname match; speaks plain text, JSON, CSV, Nagios and Prometheus; batch mode with concurrency and CI-friendly exit codes. `pip install certinspect`
+- 📡 **[certminder](https://github.com/mangrisano/certminder)** — continuous TLS certificate monitor & alerter built on top of certinspect: scheduled checks, state memory, dedup and notifications (console / email / Slack / webhook). `pip install certminder`
 
   ![PyPI](https://img.shields.io/pypi/v/certinspect?style=flat-square&logo=pypi&logoColor=white&color=3775A9)
   ![Python](https://img.shields.io/pypi/pyversions/certinspect?style=flat-square&logo=python&logoColor=white&color=3776AB)
