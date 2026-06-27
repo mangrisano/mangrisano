@@ -44,9 +44,9 @@ I build and ship my own tooling — small, focused, production-grade.
 
 ### 🛠️ Tech I reach for
 
-**Languages:** Python · C++ · TypeScript · Node.js
-**Infra & data:** Docker · Linux · PostgreSQL
-**Domain:** PKI · X.509 · TLS/SSL · FIDO2
+- **Languages:** Python · C++ · TypeScript · Node.js
+- **Infra & data:** Docker · Linux · PostgreSQL
+- **Domain:** PKI · X.509 · TLS/SSL · FIDO2
 
 ---
 
