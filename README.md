@@ -42,11 +42,10 @@ I build and ship my own tooling — small, focused, production-grade.
 
 
 **[cvewatcher](https://github.com/mangrisano/cvewatcher)** — self-hosted FastAPI service that matches your software inventory against the NIST NVD: precise CPE lookups, automatic CPE resolution and keyword fallback, severity/time triage, background monitoring and a no-build web dashboard.
-`docker pull micheleangrisano/cvewatcher`
 
 [![Release](https://img.shields.io/github/v/release/mangrisano/cvewatcher?style=flat-square&logo=github&logoColor=white&color=3775A9)](https://github.com/mangrisano/cvewatcher/releases)
 [![Python](https://img.shields.io/badge/python-3-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mangrisano/cvewatcher/blob/main/pyproject.toml)
-[![Container](https://img.shields.io/badge/ghcr.io-cvewatcher-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/mangrisano/cvewatcher/pkgs/container/cvewatcher)
+[![Image Size](https://img.shields.io/docker/image-size/micheleangrisano/cvewatcher/latest?style=flat-square&logo=docker&logoColor=white&color=2496ED)](https://hub.docker.com/r/micheleangrisano/cvewatcher)
 [![Stars](https://img.shields.io/github/stars/mangrisano/cvewatcher?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/cvewatcher)
 
 ---
