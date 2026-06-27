@@ -27,6 +27,7 @@ I care about clean design, algorithms, and systems that hold up under real load.
 I build and ship my own tooling — small, focused, production-grade.
 
 **[certinspect](https://github.com/mangrisano/certinspect)** — single-purpose X.509/TLS certificate inspector. Checks expiry, chain of trust, OCSP/CRL revocation, weak crypto and hostname match. Speaks plain text, JSON, CSV, Nagios and Prometheus; batch mode with concurrency and CI-friendly exit codes.
+
 `pip install certinspect`
 
 [![PyPI](https://img.shields.io/pypi/v/certinspect?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/certinspect/)
@@ -34,6 +35,7 @@ I build and ship my own tooling — small, focused, production-grade.
 [![Stars](https://img.shields.io/github/stars/mangrisano/certinspect?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/certinspect)
 
 **[certminder](https://github.com/mangrisano/certminder)** — continuous TLS certificate monitor & alerter built on top of certinspect: scheduled checks, state memory, dedup and notifications (console / email / Slack / webhook). Currently monitoring **63 public-healthcare TLS endpoints** in production.
+
 `pip install certminder`
 
 [![PyPI](https://img.shields.io/pypi/v/certminder?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/certminder/)
@@ -42,6 +44,8 @@ I build and ship my own tooling — small, focused, production-grade.
 
 
 **[cvewatcher](https://github.com/mangrisano/cvewatcher)** — self-hosted FastAPI service that matches your software inventory against the NIST NVD: precise CPE lookups, automatic CPE resolution and keyword fallback, severity/time triage, background monitoring and a no-build web dashboard.
+
+`docker pull micheleangrisano/cvewatcher`
 
 [![Release](https://img.shields.io/github/v/release/mangrisano/cvewatcher?style=flat-square&logo=github&logoColor=white&color=3775A9)](https://github.com/mangrisano/cvewatcher/releases)
 [![Python](https://img.shields.io/badge/python-3-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mangrisano/cvewatcher/blob/main/pyproject.toml)
