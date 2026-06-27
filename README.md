@@ -7,6 +7,7 @@ I care about clean design, algorithms, and systems that hold up under real load.
 
 - 📍 Based in Napoli, Italy
 - 🏢 Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it) — authentication & PKI
+- 🗣️ Italian (native) · English (professional)
 - 🌍 [LinkedIn](https://www.linkedin.com/in/michele-angrisano-2b812a1b8/) · ✉️ [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com)
 
 ---
@@ -46,6 +47,12 @@ I build and ship my own tooling — small, focused, production-grade.
 **Languages:** Python · C++ · TypeScript · Node.js
 **Infra & data:** Docker · Linux · PostgreSQL
 **Domain:** PKI · X.509 · TLS/SSL · FIDO2
+
+---
+
+### 🔭 Currently
+
+Deep into **certificate-lifecycle automation** — OCSP/CRL revocation, TLS monitoring, and CI-friendly PKI tooling.
 
 ---
 
