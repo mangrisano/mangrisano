@@ -1,6 +1,6 @@
 # Hi 👋 I'm Michele Angrisano
 
-## PKI & Authentication Engineer
+## Software Engineer — Authentication & PKI
 
 I build security software in **Python, C++ and TypeScript** that ships to production.
 I care about clean design, algorithms, and systems that hold up under real load.
