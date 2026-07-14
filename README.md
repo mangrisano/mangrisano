@@ -6,7 +6,7 @@ I build security software in **Python, C++ and TypeScript** that ships to produc
 I care about clean design, algorithms, and systems that hold up under real load.
 
 - 📍 Based in Napoli, Italy
-- 🏢 Software Engineer at [Bit4id](https://www.bit4id.com)/[Namirial](https://www.namirial.it) — authentication & PKI
+- 🏢 Software Engineer at [Namirial](https://www.namirial.it) — authentication & PKI
 - 🗣️ Italian (native) · English (professional)
 - 🌍 [LinkedIn](https://www.linkedin.com/in/michele-angrisano-2b812a1b8/) · ✉️ [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com)
 
