@@ -51,7 +51,7 @@ I build and ship my own tooling — small, focused, production-grade.
 [![Image Size](https://img.shields.io/docker/image-size/micheleangrisano/cvewatcher/latest?style=flat-square&logo=docker&logoColor=white&color=2496ED)](https://hub.docker.com/r/micheleangrisano/cvewatcher)
 [![Stars](https://img.shields.io/github/stars/mangrisano/cvewatcher?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/cvewatcher)
 
-**[jpick](https://github.com/mangrisano/jpick)** — tiny `jq`-like JSON tool written in C++20: a hand-written lexer and recursive-descent parser over a `std::variant` data model. Query with object keys, array indices, iteration (`[]`) and the pipe operator (`|`); compact or pretty output; reads from stdin or a file.
+**[jpick](https://github.com/mangrisano/jpick)** — tiny `jq`-like JSON tool written in C++20: a hand-written lexer and recursive-descent parser over a `std::variant` data model. Query with object keys, array indices, iteration (`[]`) and the pipe operator (`|`); build strings with interpolation (`"\(.name)"`); compact, pretty or raw (`-r`) output; reads from stdin or a file.
 
 `brew install mangrisano/jpick/jpick`
 
