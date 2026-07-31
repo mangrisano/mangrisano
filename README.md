@@ -38,7 +38,7 @@ I build and ship my own tooling — small, focused, production-grade.
 
 [![PyPI](https://img.shields.io/pypi/v/certinspect?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/certinspect/)
 [![Python](https://img.shields.io/pypi/pyversions/certinspect?style=flat-square&logo=python&logoColor=white&color=3776AB)](https://pypi.org/project/certinspect/)
-[![Downloads](https://static.pepy.tech/badge/certinspect/month)](https://pepy.tech/project/certinspect)
+[![Downloads](https://static.pepy.tech/badge/certinspect)](https://pepy.tech/project/certinspect)
 [![Stars](https://img.shields.io/github/stars/mangrisano/certinspect?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/certinspect)
 
 <img src="https://raw.githubusercontent.com/mangrisano/certinspect/main/docs/demo.gif" alt="certinspect demo" width="640">
@@ -49,7 +49,7 @@ I build and ship my own tooling — small, focused, production-grade.
 
 [![PyPI](https://img.shields.io/pypi/v/certminder?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/certminder/)
 [![Python](https://img.shields.io/pypi/pyversions/certminder?style=flat-square&logo=python&logoColor=white&color=3776AB)](https://pypi.org/project/certminder/)
-[![Downloads](https://static.pepy.tech/badge/certminder/month)](https://pepy.tech/project/certminder)
+[![Downloads](https://static.pepy.tech/badge/certminder)](https://pepy.tech/project/certminder)
 [![Stars](https://img.shields.io/github/stars/mangrisano/certminder?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/certminder)
 
 **[cvewatcher](https://github.com/mangrisano/cvewatcher)** — self-hosted FastAPI service that matches your software inventory against the NIST NVD: precise CPE lookups, automatic CPE resolution and keyword fallback, severity/time triage, background monitoring and a no-build web dashboard.
