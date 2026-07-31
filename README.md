@@ -71,6 +71,8 @@ I build and ship my own tooling — small, focused, production-grade.
 [![Downloads](https://img.shields.io/github/downloads/mangrisano/jpick/total?style=flat-square&logo=github&logoColor=white&label=downloads&color=181717)](https://github.com/mangrisano/jpick/releases)
 [![Stars](https://img.shields.io/github/stars/mangrisano/jpick?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/jpick)
 
+<img src="https://raw.githubusercontent.com/mangrisano/jpick/main/docs/demo.gif" alt="jpick demo" width="640">
+
 ---
 
 ### 🛠️ Tech I reach for
