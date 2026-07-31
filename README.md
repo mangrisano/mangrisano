@@ -75,12 +75,13 @@ Deep into **certificate-lifecycle automation** — OCSP/CRL revocation, TLS moni
 
 ---
 
-<a href="https://github.com/mangrisano">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mangrisano&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Michele's GitHub stats" />
-</a>
-<a href="https://github.com/mangrisano">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangrisano&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</a>
+### ❤️ Support my work
+
+If my open-source tooling saves you time, you can support its continued
+development through **[GitHub Sponsors](https://github.com/sponsors/mangrisano)**.
+
+[![Sponsor](https://img.shields.io/github/sponsors/mangrisano?style=flat-square&logo=githubsponsors&logoColor=white&label=Sponsor&color=EA4AAA)](https://github.com/sponsors/mangrisano)
+[![Follow](https://img.shields.io/github/followers/mangrisano?style=flat-square&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/mangrisano)
 
 ---
 
