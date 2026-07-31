@@ -78,9 +78,9 @@ I build and ship my own tooling — small, focused, production-grade.
 ### 🛠️ Tech I reach for
 
 - **Languages:** Python · C++ · TypeScript · Node.js
-- **Backend:** FastAPI · SOAP · REST
-- **Infra & data:** Docker · Linux · PostgreSQL
-- **Domain:** PKI · X.509 · TLS/SSL · FIDO2 · remote signing · CA
+- **Backend:** FastAPI · Django · [django-ninja-aio-crud](https://github.com/caspel26/django-ninja-aio-crud) · SOAP · REST · microservices
+- **Infra & data:** Docker · Linux · PostgreSQL · Redis
+- **Domain:** PKI · X.509 · ASN.1 · TLS/SSL · client-cert auth · PKCS#12 · JOSE/JWT · FIDO2 · WebAuthn · remote signing · CA
 
 ---
 
