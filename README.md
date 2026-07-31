@@ -89,4 +89,4 @@ development through **[GitHub Sponsors](https://github.com/sponsors/mangrisano)*
 
 ---
 
-💬 Happy to talk about **PKI, security tooling and backend systems** — feel free to reach out.
+Happy to talk about **PKI, security tooling and backend systems** — feel free to reach out.
