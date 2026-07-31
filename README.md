@@ -10,7 +10,7 @@ X.509** in the product I work on to the open-source tooling I build around
 certificate inspection, monitoring and the TLS lifecycle.
 
 - 📍 Based in Napoli, Italy
-- 🏢 Software Engineer at [Namirial](https://www.namirial.it) — authentication & PKI
+- 🏢 Software Engineer at [Namirial](https://www.namirial.it) since 2022 — authentication & PKI
 - 🗣️ Italian (native) · English (professional)
 - 🌍 [LinkedIn](https://www.linkedin.com/in/michele-angrisano-2b812a1b8/) · ✉️ [michele.angrisano@gmail.com](mailto:michele.angrisano@gmail.com)
 
@@ -23,6 +23,8 @@ certificate inspection, monitoring and the TLS lifecycle.
 - Built core parts of the **Python backend** and **native Node/C++ modules** powering passwordless login on enterprise workstations.
 - Designed and shipped **TypeScript** modules for the web/integration layer.
 - Work hands-on with **PKI**, **X.509** and the **TLS/SSL** certificate lifecycle.
+
+Beyond the product, I build **enterprise backends in Python / FastAPI** — including **SOAP** integrations and services around **remote signing** and **Certificate Authority (CA)** infrastructure.
 
 ---
 
@@ -68,14 +70,15 @@ I build and ship my own tooling — small, focused, production-grade.
 ### 🛠️ Tech I reach for
 
 - **Languages:** Python · C++ · TypeScript · Node.js
+- **Backend:** FastAPI · SOAP · REST
 - **Infra & data:** Docker · Linux · PostgreSQL
-- **Domain:** PKI · X.509 · TLS/SSL · FIDO2
+- **Domain:** PKI · X.509 · TLS/SSL · FIDO2 · remote signing · CA
 
 ---
 
 ### 🔭 Currently
 
-Deep into **certificate-lifecycle automation** — OCSP/CRL revocation, TLS monitoring, and CI-friendly PKI tooling.
+On the open-source side, I keep building and maintaining my own **certificate-lifecycle tooling** — TLS/PKI inspection, monitoring and revocation — plus small focused utilities that scratch my own itch.
 
 ---
 
@@ -89,4 +92,5 @@ development through **[GitHub Sponsors](https://github.com/sponsors/mangrisano)*
 
 ---
 
-Happy to talk about **PKI, security tooling and backend systems** — feel free to reach out.
+Happy to talk about **PKI, security tooling and backend systems** — reach out on
+[LinkedIn](https://www.linkedin.com/in/michele-angrisano-2b812a1b8/) or by [email](mailto:michele.angrisano@gmail.com).
