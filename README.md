@@ -38,6 +38,7 @@ I build and ship my own tooling — small, focused, production-grade.
 
 [![PyPI](https://img.shields.io/pypi/v/certinspect?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/certinspect/)
 [![Python](https://img.shields.io/pypi/pyversions/certinspect?style=flat-square&logo=python&logoColor=white&color=3776AB)](https://pypi.org/project/certinspect/)
+[![Downloads](https://img.shields.io/pypi/dm/certinspect?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=3775A9)](https://pypi.org/project/certinspect/)
 [![Stars](https://img.shields.io/github/stars/mangrisano/certinspect?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/certinspect)
 
 **[certminder](https://github.com/mangrisano/certminder)** — continuous TLS certificate monitor & alerter built on top of certinspect: scheduled checks, state memory, dedup and notifications (console / email / Slack / webhook). Currently monitoring **78 public-healthcare TLS endpoints** in production.
@@ -46,6 +47,7 @@ I build and ship my own tooling — small, focused, production-grade.
 
 [![PyPI](https://img.shields.io/pypi/v/certminder?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/certminder/)
 [![Python](https://img.shields.io/pypi/pyversions/certminder?style=flat-square&logo=python&logoColor=white&color=3776AB)](https://pypi.org/project/certminder/)
+[![Downloads](https://img.shields.io/pypi/dm/certminder?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=3775A9)](https://pypi.org/project/certminder/)
 [![Stars](https://img.shields.io/github/stars/mangrisano/certminder?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/certminder)
 
 **[cvewatcher](https://github.com/mangrisano/cvewatcher)** — self-hosted FastAPI service that matches your software inventory against the NIST NVD: precise CPE lookups, automatic CPE resolution and keyword fallback, severity/time triage, background monitoring and a no-build web dashboard.
@@ -54,6 +56,7 @@ I build and ship my own tooling — small, focused, production-grade.
 
 [![Release](https://img.shields.io/github/v/release/mangrisano/cvewatcher?style=flat-square&logo=github&logoColor=white&color=3775A9)](https://github.com/mangrisano/cvewatcher/releases)
 [![Python](https://img.shields.io/badge/python-3-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mangrisano/cvewatcher/blob/main/pyproject.toml)
+[![Docker Pulls](https://img.shields.io/docker/pulls/micheleangrisano/cvewatcher?style=flat-square&logo=docker&logoColor=white&label=pulls&color=2496ED)](https://hub.docker.com/r/micheleangrisano/cvewatcher)
 [![Image Size](https://img.shields.io/docker/image-size/micheleangrisano/cvewatcher/latest?style=flat-square&logo=docker&logoColor=white&color=2496ED)](https://hub.docker.com/r/micheleangrisano/cvewatcher)
 [![Stars](https://img.shields.io/github/stars/mangrisano/cvewatcher?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/cvewatcher)
 
@@ -63,6 +66,7 @@ I build and ship my own tooling — small, focused, production-grade.
 
 [![Release](https://img.shields.io/github/v/release/mangrisano/jpick?style=flat-square&logo=github&logoColor=white&color=3775A9)](https://github.com/mangrisano/jpick/releases)
 [![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/mangrisano/jpick/blob/main/CMakeLists.txt)
+[![Downloads](https://img.shields.io/github/downloads/mangrisano/jpick/total?style=flat-square&logo=github&logoColor=white&label=downloads&color=181717)](https://github.com/mangrisano/jpick/releases)
 [![Stars](https://img.shields.io/github/stars/mangrisano/jpick?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/jpick)
 
 ---
