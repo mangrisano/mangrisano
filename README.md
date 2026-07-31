@@ -75,20 +75,6 @@ Deep into **certificate-lifecycle automation** — OCSP/CRL revocation, TLS moni
 
 ---
 
-### 📊 GitHub activity
-
-<!-- Cards are regenerated nightly by the profile-summary-cards workflow (static SVGs, no live service). -->
-
-![Profile details](profile-summary-card-output/github_dark/0-profile-details.svg)
-
-![Repositories per language](profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![Most used languages in commits](profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-![GitHub stats](profile-summary-card-output/github_dark/3-stats.svg)
-![Productive time](profile-summary-card-output/github_dark/4-productive-time.svg)
-
----
-
 ### ❤️ Support my work
 
 If my open-source tooling saves you time, you can support its continued
