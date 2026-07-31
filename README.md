@@ -5,6 +5,10 @@
 I build security software in **Python, C++ and TypeScript** that ships to production.
 I care about clean design, algorithms, and systems that hold up under real load.
 
+The same **PKI / TLS** expertise runs through everything I do — from **FIDO2 and
+X.509** in the product I work on to the open-source tooling I build around
+certificate inspection, monitoring and the TLS lifecycle.
+
 - 📍 Based in Napoli, Italy
 - 🏢 Software Engineer at [Namirial](https://www.namirial.it) — authentication & PKI
 - 🗣️ Italian (native) · English (professional)
