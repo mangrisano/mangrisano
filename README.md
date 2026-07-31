@@ -41,6 +41,8 @@ I build and ship my own tooling — small, focused, production-grade.
 [![Downloads](https://img.shields.io/pypi/dm/certinspect?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=3775A9)](https://pypi.org/project/certinspect/)
 [![Stars](https://img.shields.io/github/stars/mangrisano/certinspect?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/mangrisano/certinspect)
 
+<img src="https://raw.githubusercontent.com/mangrisano/certinspect/main/docs/demo.gif" alt="certinspect demo" width="640">
+
 **[certminder](https://github.com/mangrisano/certminder)** — continuous TLS certificate monitor & alerter built on top of certinspect: scheduled checks, state memory, dedup and notifications (console / email / Slack / webhook). Currently monitoring **78 public-healthcare TLS endpoints** in production.
 
 `pip install certminder`
